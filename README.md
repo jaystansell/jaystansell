@@ -1,7 +1,5 @@
 # Hey, I'm Jay 👋
 
-**Founder @ [Gross Labs](https://grosslabs.co) | Building [ExecReps](https://execreps.ai)**
-
 > Turning AI into unfair advantages for B2B founders.
 
 ## What I'm Building
@@ -14,13 +12,6 @@
 - 📊 Product management with a GTM obsession
 - 🚀 Take things from zero → one → scale
 - 🤖 Automate everything that shouldn't require a human
-
-## Previously
-
-- **CTO @ Cured** — Built health system CRM from scratch. $2.5M ARR → acquired.
-- **VP Product @ Cured** — Led platform through 130+ health system deployments.
-- **Head of Product @ Shelfgram** — Visual intelligence for CPG brands.
-- **Head of Global Communications @ Booking.com** — Internal platforms for 17K+ employees.
 
 ## Current Stack
 
